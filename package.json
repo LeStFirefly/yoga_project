@@ -3,8 +3,14 @@
   "version": "0.0.1",
   "description": "javascript project",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "babel": "^6.23.0",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  },
   "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "babel-loader": "^8.2.2",
     "webpack": "^5.21.2",
     "webpack-cli": "^4.5.0"
   },
