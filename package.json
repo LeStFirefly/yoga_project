@@ -1,0 +1,28 @@
+{
+  "name": "yoga_project",
+  "version": "0.0.1",
+  "description": "javascript project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeStFirefly/yoga_project.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "LeSt Firefly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeStFirefly/yoga_project/issues"
+  },
+  "homepage": "https://github.com/LeStFirefly/yoga_project#readme"
+}
